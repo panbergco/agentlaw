@@ -1,4 +1,4 @@
-# Stop Micromanaging Your AI Agent — Write a Law Instead
+# Stop Micromanaging Your AI Coding Agent — Write a Law Instead
 
 > I replaced a 5,000-token CLAUDE.md with 28 lines that actually work. Here's what I learned about plan mode, memory, and why delegation beats control.
 
